@@ -11,7 +11,7 @@
         <div class="row">
             <div class="col-md-6">
                 <div class="faq-image" id="image-container">
-                    <img src="{{ asset('images/car_anaekran.png') }}" alt="Sıkça Sorulan Sorular Görseli" loading="lazy" height="100px" />
+                    <img src="{{ asset('images/ss1.png') }}" alt="Sıkça Sorulan Sorular Görseli" loading="lazy" height="100px" />
                 </div>
                 <p><br /></p>
             </div>
@@ -19,7 +19,7 @@
                 <div class="faq-list">
                     <div class="faq-item">
                         <div class="question">
-                            <h5><span class="plus-icon">⮞</span> TDKA Studios hangi hizmetleri sunar?</h5>
+                            <h5>TDKA Studios hangi hizmetleri sunar?</h5>
                         </div>
                         <div class="answer">
                             <p>
@@ -29,7 +29,7 @@
                     </div>
                     <div class="faq-item">
                         <div class="question">
-                            <h5><span class="plus-icon">⮞</span> Hangi sektörlerde TDKA Studios çözümlerinden faydalanabilirim?</h5>
+                            <h5>Hangi sektörlerde TDKA Studios çözümlerinden faydalanabilirim?</h5>
                         </div>
                         <div class="answer">
                             <p>
@@ -39,7 +39,7 @@
                     </div>
                     <div class="faq-item">
                         <div class="question">
-                            <h5><span class="plus-icon">⮞</span> Yapay zeka çözümleriniz nasıl çalışır?</h5>
+                            <h5>Yapay zeka çözümleriniz nasıl çalışır?</h5>
                         </div>
                         <div class="answer">
                             <p>
@@ -49,7 +49,7 @@
                     </div>
                     <div class="faq-item">
                         <div class="question">
-                            <h5><span class="plus-icon">⮞</span> TDKA Studios çözümleri özelleştirilebilir mi?</h5>
+                            <h5>TDKA Studios çözümleri özelleştirilebilir mi?</h5>
                         </div>
                         <div class="answer">
                             <p>
@@ -59,7 +59,7 @@
                     </div>
                     <div class="faq-item">
                         <div class="question">
-                            <h5><span class="plus-icon">⮞</span> Verilerim güvende mi?</h5>
+                            <h5>Verilerim güvende mi?</h5>
                         </div>
                         <div class="answer">
                             <p>

@@ -256,12 +256,12 @@ h6 {
     text-decoration: none;
 }
 .video-section {
-    background: url(images/video-bg.jpg) no-repeat fixed center;
+    background: url(images/cars.jpg) no-repeat fixed center;
     background-size: cover;
     overflow: hidden;
 }
 .video-overlay {
-    background: linear-gradient(to right,#444444, rgba(183, 181, 185, 0.9));
+    background: linear-gradient(to right, #444444, rgba(183, 181, 185, 0.5));
 }
 .video-section h3 {
     font-weight: 600;

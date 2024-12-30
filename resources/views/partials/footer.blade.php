@@ -5,21 +5,20 @@
                 <div class="info_detail">
                     <div style="text-align: center;">
                         <h4 style="color: #ffffff; font-size: 24px; margin-bottom: 20px;"></h4>
-                        <img src="{{ asset('images/unnamed-removebg-preview.png') }}" style="height: 150px; width: 150px; border-radius: 50%;" />
+                        <img src="{{ asset('images/tdka_logo.png') }}"
+                            style="height: 150px; width: 150px; border-radius: 50%;" />
                     </div>
                     <div style="text-align: center; margin-top: 20px;">
-                        <a href="https://twitter.com/tdkastudios" style="margin-right: 10px;">
-                            <img src="{{ asset('images/twitter.png') }}" alt="Twitter Icon" height="25" style="border-radius:999px" />
+
+                        <a href="https://www.instagram.com/aitchkays/" style="margin-right: 10px;">
+                            <img src="{{ asset('images/instagram.png') }}" alt="Instagram Icon" height="25"
+                                style="border-radius:999px" />
                         </a>
-                        <a href="https://www.instagram.com/tdkastudios/" style="margin-right: 10px;">
-                            <img src="{{ asset('images/instagram.png') }}" alt="Instagram Icon" height="25" style="border-radius:999px" />
+                        <a href="https://www.youtube.com/@dualcoreprocessor185" style="margin-right: 10px;">
+                            <img src="{{ asset('images/youtube.png') }}" alt="YouTube Icon"
+                                style="color: #ff0000; font-size: 12px; height: 25px; border-radius:999px; " />
                         </a>
-                        <a href="https://www.youtube.com/@tdkastudios" style="margin-right: 10px;">
-                            <img src="{{ asset('images/youtube.png') }}" alt="YouTube Icon" style="color: #ff0000; font-size: 12px; height: 25px; border-radius:999px; " />
-                        </a>
-                        <a href="https://www.linkedin.com/company/tdkastudios/">
-                            <img src="{{ asset('images/linkedin.png') }}" alt="LinkedIn Icon" height="27" style="border-radius:999px" />
-                        </a>
+
                     </div>
                 </div>
             </div>
@@ -34,13 +33,13 @@
                         <a href="">
                             <i class="fa fa-map-marker" aria-hidden="true"></i>
                             <span>
-                               İstanbul Sabahattiz Zaim Üniversity
+                                İstanbul Zaim Üniversity
                             </span>
                         </a>
                         <a href="">
                             <i class="fa fa-phone" aria-hidden="true"></i>
                             <span>
-                                0 000 000 00 00
+                                444 97 98
                             </span>
                         </a>
                         <a href="">
@@ -58,6 +57,7 @@
                 </style>
             </div>
             <div class="col-md-3">
+                <!--
                 <div class="info_link_box">
                     <h4>
                         <br />
@@ -83,6 +83,7 @@
                         </a>
                     </div>
                 </div>
+                -->
             </div>
             <div class="col-md-3 mb-0">
                 <h4>

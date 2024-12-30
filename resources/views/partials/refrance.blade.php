@@ -9,7 +9,8 @@
                         Projelerimiz
                     </h2>
                     <span class="line"></span>
-                    <p>TDKA Studios ile iş ortaklarımızın memnuniyeti en büyük önceliğimizdir. Yenilikçi çözümlerimizle büyümelerine destek oluyoruz.</p>
+                    <p>TDKA Studios ile iş ortaklarımızın memnuniyeti en büyük önceliğimizdir. Yenilikçi çözümlerimizle
+                        büyümelerine destek oluyoruz.</p>
                 </div>
                 <div id="carouselExampleControls" class="section-content" data-ride="carousel">
                     <div class="carousel-inner">
@@ -19,8 +20,8 @@
                                 <p><br /></p>
                                 <p>
                                     <strong class="custom-color">
-                                    TDKA Studios sayesinde oyun geliştirme süreçlerimiz hız kazandı. <br />
-                                    Profesyonel destek ve yenilikçi yaklaşımları için teşekkürler.
+                                        TDKA Studios sayesinde oyun geliştirme süreçlerimiz hız kazandı. <br />
+                                        Profesyonel destek ve yenilikçi yaklaşımları için teşekkürler.
                                     </strong>
                                 </p>
                                 <img src="{{ asset('images/task_monitora.png') }}" alt="" />
@@ -32,8 +33,20 @@
                                 <p><br /></p>
                                 <p>
                                     <strong class="custom-color">
-                                    Yapay zeka çözümleriyle iş süreçlerimizi optimize ettik. <br />
-                                    TDKA Studios'un çözüm odaklı yaklaşımı harika!
+                                        Yapay zeka çözümleriyle iş süreçlerimizi optimize ettik. <br />
+                                        TDKA Studios'un çözüm odaklı yaklaşımı harika!
+                                    </strong>
+                                </p>
+                                <img src="{{ asset('images/car_anaekrana.png') }}" alt="" />
+                            </div>
+                        </div>
+                        <div class="carousel-item">
+                            <div class="detail-box">
+                                <h4>Campus</h4>
+                                <p><br /></p>
+                                <p>
+                                    <strong class="custom-color">
+                                        Her kurum için iç ağ sosyal medaya platformu. <br />
                                     </strong>
                                 </p>
                                 <img src="{{ asset('images/car_anaekrana.png') }}" alt="" />

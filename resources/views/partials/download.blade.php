@@ -1,3 +1,4 @@
+<!--
 <section class="download section-padding">
     <div class="container">
         <div class="row">
@@ -32,3 +33,5 @@
         </div>
     </div>
 </section>
+
+-->

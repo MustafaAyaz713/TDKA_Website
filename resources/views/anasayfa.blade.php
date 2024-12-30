@@ -9,7 +9,6 @@
         @include('partials.services')
         @include('partials.video')
         @include('partials.faq')
-        @include('partials.download')
         @include('partials.refrance')
         @include('partials.threebox2')
         @include('partials.contact')
